@@ -1,0 +1,12 @@
+venv/
+authentication/migrations/
+hospital/migrations/
+db.sqlite3
+authentication/views/__pycache__/
+hospital/views/__pycache__/
+authentication/__pycache__/
+core/__pycache__/
+hospital/__pycache__/
+core/__pycache__/
+hospital/views/__pycache__/__init__.cpython-312.pyc
+.idea/
